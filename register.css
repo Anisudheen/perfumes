@@ -1,0 +1,41 @@
+*{    margin:0px;
+    padding:0px;
+}
+nav{
+    background-color: black;
+    color:white;
+    padding:20px;
+
+}
+ul,li,h1{
+    display:inline;
+}
+ul{
+    margin-left:70%;
+}
+li{
+    color:grey;
+    cursor:pointer;
+}
+li:hover{
+    color:white;
+}
+.one{
+    text-align: center;
+    margin-top: 30px;
+}
+.two{
+    text-align: center;
+    margin-top: 30px;
+}
+body{
+    background-color: olive;
+
+}
+.Contact{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:40px;
+    margin-top: 300px;
+}
